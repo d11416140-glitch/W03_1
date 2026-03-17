@@ -1,8 +1,20 @@
 ﻿using System;
 
-public class Class1
+public class test
 {
-	public Class1()
+	public int mid;
+	public int Final;	
+
+	public double GetAvg()
 	{
+
 	}
+
+	public void SetGrade()
+	{
+
+	}
+
+
+
 }
