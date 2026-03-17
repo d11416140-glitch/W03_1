@@ -13,7 +13,7 @@
             Console.WriteLine("joe平均成績" + joe.GetAvg());
             mary.SetGrade(78,92);
             Console.WriteLine("mary平均成績" + mary.GetAvg());
-            Console.WriteLine("tom平均成績" + mary.GetAvg());
+            Console.WriteLine("tom平均成績" + joe.GetAvg());
 
 
 
