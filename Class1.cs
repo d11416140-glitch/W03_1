@@ -7,12 +7,13 @@ public class test
 
 	public double GetAvg()
 	{
-
+		return (mid+Final)/2.0;
 	}
 
-	public void SetGrade()
+	public void SetGrade(int m , int f)
 	{
-
+		mid = m;
+		Final = f;
 	}
 
 
